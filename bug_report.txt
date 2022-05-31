@@ -1,1 +1,11 @@
-
+Title: Application installation error
+Severity: Blocker
+Priority: High
+Environment:
+1) Xiaomi redmi 4x, Android 7.1.2, MIUI Global 11.0.2.Stable
+2) Meizu M6 Note, Android 7.1.2
+STR:
+1) Download application
+2) Click for install
+AR: Error message appears 'There was a problem parsing the package'
+ER: Installing the app on the phone
